@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+D:\2M інформатика\Практичні\pract1\pract1\MyForm.h(513,20): warning C4305: 'argument': truncation from 'int' to 'bool'
+  (compiling source file 'MyForm.cpp')
+  
+D:\2M інформатика\Практичні\pract1\pract1\MyForm.h(521,20): warning C4305: 'argument': truncation from 'int' to 'bool'
+  (compiling source file 'MyForm.cpp')
+  
+D:\2M інформатика\Практичні\pract1\pract1\MyForm.h(529,20): warning C4305: 'argument': truncation from 'int' to 'bool'
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  pract1.vcxproj -> D:\2M інформатика\Практичні\pract1\x64\Debug\pract1.exe
